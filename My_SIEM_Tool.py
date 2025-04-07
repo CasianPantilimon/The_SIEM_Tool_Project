@@ -73,9 +73,9 @@ failed_LogIn_Link = "https://attack.mitre.org/techniques/T1110/"
 special_Login_Link = "https://attack.mitre.org/techniques/T1078/"
 
 # setting up the email
-EMAIL_ADDRESS = "casianpantilimon98@gmail.com"
-EMAIL_PASSWORD = "jdux uinh jkfo lstp"  # Use an app password for Gmail
-TO_EMAIL = "casianpantilimon98@gmail.com"
+EMAIL_ADDRESS = "YourEmail@gmail.com"
+EMAIL_PASSWORD = "***********"  # use the password that Gmail is going to provide for your app (Python in this case)
+TO_EMAIL = "RecepientEmail@gmail.com"
 
 
 def send_email(alerts):

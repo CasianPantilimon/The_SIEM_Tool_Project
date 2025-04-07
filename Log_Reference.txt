@@ -1,0 +1,19 @@
+# 4624 – Successful logon
+#
+# 4625 – Failed logon
+#
+# 4634 – Logoff
+#
+# 4672 – Special privileges assigned
+#
+# 4688 – New process creation
+#
+# 4689 – Process exit
+#
+# 4768 – Kerberos TGT request
+#
+# 4769 – Kerberos service ticket request
+#
+# 4776 – NTLM authentication failed
+#
+# 4798 – Account enumeration
